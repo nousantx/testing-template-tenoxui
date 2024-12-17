@@ -333,10 +333,10 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@nousantx/tenoxui-styler@^0.1.14":
-  version "0.1.14"
-  resolved "https://registry.yarnpkg.com/@nousantx/tenoxui-styler/-/tenoxui-styler-0.1.14.tgz#f46f090b6325b638ee3110ea3672eee2e46f8873"
-  integrity sha512-eLVGFdrZNEP13F3/qQHurERwB1x58T8+e7NboCGTKICiOf2zOQeLMeN6O2sVTUjgSzWNQAkZZRHjF4s5ccTsvQ==
+"@nousantx/tenoxui-styler@^0.1.16":
+  version "0.1.16"
+  resolved "https://registry.yarnpkg.com/@nousantx/tenoxui-styler/-/tenoxui-styler-0.1.16.tgz#f8e6d00bfe56b751d130ccc2c3f2283726db0a7a"
+  integrity sha512-wqKa3RLiI6j3Ggu4ijNWkkasy4rxxdNhDg9eqZo+6J4iKskRQG/JcZ7rv/RO+LVaM23bkHKaWP28q7ipC+m94Q==
 
 "@preact/preset-vite@^2.9.1":
   version "2.9.3"
@@ -778,6 +778,11 @@ stack-trace@^1.0.0-pre2:
   version "1.0.0-pre2"
   resolved "https://registry.yarnpkg.com/stack-trace/-/stack-trace-1.0.0-pre2.tgz#46a83a79f1b287807e9aaafc6a5dd8bcde626f9c"
   integrity sha512-2ztBJRek8IVofG9DBJqdy2N5kulaacX30Nz7xmkYF6ale9WBVmIy6mFBchvGX7Vx/MyjBhx+Rcxqrj+dbOnQ6A==
+
+tenoxui-plugin-utility@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/tenoxui-plugin-utility/-/tenoxui-plugin-utility-0.1.2.tgz#15c2957a3fc2e36549cf436599d5e16d4c44e689"
+  integrity sha512-98ysPhHm42uh8j5p8NIkiXogL3F14EvOo9bh0E470fs50rOWwVXljDnNPfKVQIt+82EBZEInnbsbgKN0nViQEQ==
 
 typescript@~5.6.2:
   version "5.6.3"

@@ -14,8 +14,9 @@
     "preact": "^10.25.0"
   },
   "devDependencies": {
-    "@nousantx/tenoxui-styler": "^0.1.14",
+    "@nousantx/tenoxui-styler": "^0.1.16",
     "@preact/preset-vite": "^2.9.1",
+    "tenoxui-plugin-utility": "^0.1.2",
     "typescript": "~5.6.2",
     "vite": "^6.0.1"
   }
